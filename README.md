@@ -2,10 +2,10 @@
 
 Algunos puntos importantes a considerar:
 
-*  Este desafío no te debiera tomar más de 5 horas de tu tiempo (y ojalá menos!). Por lo mismo, no esperamos respuestas muy pulidas ni perfectas.
-* Tendrás hasta el domingo 12 de diciembre a las 23:59 para enviar tus respuestas al desafío.
+* Este desafío no te debiera tomar más de 5 horas de tu tiempo (y ojalá menos!). Por lo mismo, no esperamos respuestas muy pulidas ni perfectas.
+* Tendrás hasta el domingo 12 de diciembre a las 23:59 UTC-3 (hora chilena).
+* Debas enviar el desafío a través de este formulario: https://forms.gle/16YQontt14jTKkoe9
 * Habilitamos un canal en Gitter para que todos puedan colaborar entre sí. Ingresa en ... (se requiere cuenta github o gitlab).
-* Entrega tu desafío acá: https://docs.google.com/forms/d/e/1FAIpQLSfErntuGGAVA7TwNWMEreX2K2jEv-6cYmVjR-bCeyEdj4sK2w/viewform
 * Finalmente, ¡lee bien las instrucciones!
 
 Nota: Este desafío es optativo si es que ya has hecho un desafío con Spike. Si quieres que revisemos un desafío anterior tuyo, avísanos!
