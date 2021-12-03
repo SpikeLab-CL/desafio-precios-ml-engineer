@@ -1,6 +1,7 @@
 # Desafío Spike ML Engineer Diciembre 2021 - Predicción de precios de insumos básicos en Chile
 
 ¡Gracias por participar en el proceso de selección de Spike! Como parte del proceso, este desafío nos ayudará a entender la manera en que te enfrentas a problemas y además podremos evaluar tus conocimientos. 
+
 Algunos puntos importantes a considerar:
 
 * Este desafío no te debiera tomar más de 5 horas de tu tiempo (y ojalá menos!). Como es un desafío técnico que no tiene asociado una retribución, recomendamos no invertir más tiempo del recomendado.
